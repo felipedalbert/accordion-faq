@@ -84,6 +84,10 @@ main{
                         margin-top: 10px;
                     }
 
+                    &:last-of-type{
+                        border-bottom: none;
+                    }
+
                 }
             }
         }
