@@ -65,6 +65,10 @@ main{
                             height: 10px;
                             transform: translateX(-13px);
                         }
+
+                        &:hover{
+                            color:#f47c57;
+                        }
                     }
                     
                     .text-content{
