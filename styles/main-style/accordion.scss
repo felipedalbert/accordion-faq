@@ -54,6 +54,7 @@ main{
                         display: flex;
                         align-items: center;
                         justify-content: space-between;
+                        transition: .2s ease-in-out;
 
                         span{
                             font-size: 1.7rem;
