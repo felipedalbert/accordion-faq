@@ -95,7 +95,8 @@ main .content .faq .accordion .content-box .text-content p {
   font-size: 1.5rem;
 }
 main .content .faq .accordion .content-box.active .text-content {
-  height: 54.545px;
+  height: -moz-max-content;
+  height: max-content;
   margin-top: 10px;
 }
 main .content .faq .accordion .content-box:last-of-type {

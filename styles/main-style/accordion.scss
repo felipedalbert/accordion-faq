@@ -85,7 +85,7 @@ main{
                     }
 
                     &.active .text-content{
-                        height: 54.545px;
+                        height: max-content;
                         margin-top: 10px;
                     }
 
